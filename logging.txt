@@ -1,0 +1,14 @@
+Your Conversation Log:
+You: Hello GPT
+AI: Hello there! How can I help you today?
+
+You: who am I
+AI: You are a person using a large language model, asking me a question.  Beyond that, I have no information about your identity.  I don't know your name, age, location, or any other personal details.
+
+You: I'm Varuu
+AI: It's nice to meet you, Varuu!  How can I help you today?
+
+You: Who am I
+AI: You are Varuu, as you just told me.
+
+End of Conversation
